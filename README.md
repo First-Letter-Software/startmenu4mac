@@ -1,2 +1,2 @@
-# startmenu4mac
+# Start Menu for Mac
 The app launcher for macOS.
