@@ -5,5 +5,5 @@ Keep your favorite apps organized and readily available, all in one place. No mo
 
 Learn more about Start Menu for Mac at the [First Letter Software website](https://firstlettersoftware.com/startmenuformac/).
 
-## Testers wanted
+## Testers Wanted
 Help shape version 1.0 by becoming a tester!  [Download Start Menu for Mac](https://firstlettersoftware.com/startmenuformac/download.php).
