@@ -1,0 +1,103 @@
+START MENU FOR MAC
+=================== End User License Agreement
+
+
+This End User License Agreement ("Agreement") is a legal agreement between you
+(either an individual or a single entity) and Alex Eng, an independent software
+developer operating as First Letter Software ("Licensor") for the software
+product identified above, which includes computer software and may include
+associated media, printed materials, and online or electronic documentation
+("Software Product"). The terms also apply to any updates, supplements,
+Internet-based services, and support services for the Software Product, unless
+other terms accompany those items on delivery. If so, those terms apply. If you
+register for a free trial of the Software Product, this Agreement will also
+govern that trial.
+
+By installing, copying, or otherwise using the Software Product, you are
+confirming your acceptance and agree to be bound by the terms of this
+Agreement. If you do not agree to the terms of this Agreement, do not install
+or use the Software Product.
+
+1. Grant of License
+
+Subject to the terms and conditions of this Agreement, the Licensor hereby
+grants you a personal, single-user, non-transferable license to use the Software
+Product on up to five (5) devices under your control. You are responsible for
+ensuring your device(s) meets the minimum requirements of the Software Product.
+
+2. Other Rights and Limitations
+
+    • You may not reverse engineer, decompile, or disassemble the Software
+      Product, except and only to the extent that such activity is expressly
+      permitted by applicable law notwithstanding this limitation.
+    • You may not modify, adapt, or create derivative works based upon the
+      Software Product or any part thereof.
+    • You may not distribute copies of the Software Product to third parties.
+    • You may not sublicense, rent, lease, or lend the Software Product.
+    • The Software Product is licensed as a single product. Its component parts
+      may not be separated for use on more than one computer.
+    • You may not remove the copyright notices included in the Software Product.
+    • You must comply with all applicable laws regarding use of the Software
+      Product.
+    • All rights not expressly granted to you in this Agreement are reserved by
+      the Licensor.
+
+3. Copyright
+
+All title, including but not limited to copyrights, in and to the Software
+Product and any copies thereof are owned by the Licensor. All title and
+intellectual property rights in and to any third-party software libraries used
+in the Software Product are owned by the respective copyright holders and may
+be protected by applicable copyright or other intellectual property laws and
+treaties.
+
+4. No Warranties
+
+THE SOFTWARE PRODUCT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. TO THE
+MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR DISCLAIMS ALL
+WARRANTIES, EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE AND ANY
+WARRANTY AGAINST INFRINGEMENT, WITH REGARD TO THE SOFTWARE PRODUCT. THE ENTIRE
+RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE PRODUCT IS WITH
+YOU. SHOULD THE SOFTWARE PRODUCT PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL
+NECESSARY SERVICING, REPAIR, OR CORRECTION.
+
+5. Limitation Of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+LICENSOR BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL
+DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS
+PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER
+PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE
+PRODUCT, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES. IN ANY CASE, THE LICENSOR'S ENTIRE LIABILITY UNDER ANY PROVISION OF
+THIS AGREEMENT SHALL BE LIMITED TO THE AMOUNT ACTUALLY PAID BY YOU FOR THE
+SOFTWARE PRODUCT.
+
+6. Termination
+
+Without prejudice to any other rights, this Agreement will automatically
+terminate if you fail to comply with the terms and conditions of this
+Agreement, or if the purchase of your license key is refunded. In such event,
+you must cease using the Software Product and destroy all copies and all of its
+component parts. Upon termination, all rights granted to you under this
+Agreement shall terminate and revert to the Licensor.
+
+Should any part of this Agreement be declared illegal or unenforceable, the
+remaining portion will remain in full force and effect.
+
+7. Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws
+of British Columbia, Canada, without giving effect to any principles of
+conflicts of law. You agree that any legal action or proceeding between you and
+the Licensor shall be brought exclusively in the courts located in British
+Columbia, Canada.
+
+
+
+Should you have any questions concerning this Agreement, please contact:
+
+First Letter Software
+Email: contact@firstlettersoftware.com
+Website: https://firstlettersoftware.com
