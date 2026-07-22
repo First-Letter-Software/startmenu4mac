@@ -34,6 +34,8 @@ ensuring your device(s) meets the minimum requirements of the Software Product.
       Software Product or any part thereof.
     • You may not distribute copies of the Software Product to third parties.
     • You may not sublicense, rent, lease, or lend the Software Product.
+    • You may not transfer the license for the Software Product from one device
+      to another.
     • The Software Product is licensed as a single product. Its component parts
       may not be separated for use on more than one computer.
     • You may not remove the copyright notices included in the Software Product.
