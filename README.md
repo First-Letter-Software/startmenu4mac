@@ -1,5 +1,5 @@
 # Start Menu for Mac
-### The app launcher for macOS.
+### The customizable app launcher for macOS.
 
 Keep your favorite apps organized and readily available, all in one place. No more wading through endless rows of icons to find the app you want.
 
